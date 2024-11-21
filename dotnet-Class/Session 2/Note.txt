@@ -1,0 +1,38 @@
+Page Life Cycle:
+Intialization-> InstaTATION OF page Control-> Recovery and upkeep of the stage -> Execution of event handlers -> Rendering of page
+
+main Cycle:
+Requesting  of page  -> Starting of page Lifecycle -> initializing of page -> Loading of Page -> Validating-> Payback event handler ->Rendering of page -> Uploading
+
+
+
+
+ASP.NET Core
+
+1. Apps can be built either for Windows, MacOS, or Linux
+
+2. Recommended when developing a Web UI as of ASP.NET Core 2.x is Razor Pages.
+
+3. Many versions can be utilized per machine
+
+4. Apps can be created with the help of Visual Studio, Visual Studio for Mac or Visual St Ausirog C# or F#.
+
+5. Performance is better than ASP.NET
+
+6. Choose esther NET Framework runtine
+
+
+ASP.NET:
+
+1. Apps can beshuilt only for Windows. Isl
+
+2. Recommenended when developing Fooms, SignalR, MVC, Web All, or a Web Ul use Web Web pages
+
+3. Only one version can be utilized per machine.
+
+4. Apps can be created with the help of Visual Studio using C#, VB, or F#.
+
+5. Performance is less than ASP.NET Core.
+
+6. Developers must use .NET Framework runtime.
+
